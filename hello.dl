@@ -1,0 +1,4 @@
+.decl greeting(msg: symbol)
+.output greeting(IO=stdout)
+
+greeting("Hello, Wealth!").
